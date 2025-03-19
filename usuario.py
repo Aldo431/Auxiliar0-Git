@@ -14,3 +14,7 @@ class Usuario:
                 print(f"[X] {tarea.obtenerNombre()}" )
 
                 print(f"[ ] {tarea.obtenerNombre()}" )
+<<<<<<< HEAD
+=======
+
+>>>>>>> d3e9f12aecda50b92bf1662b6327bd6c38ce13b7
